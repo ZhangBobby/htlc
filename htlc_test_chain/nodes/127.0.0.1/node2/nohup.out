@@ -1,0 +1,17 @@
+nohup: failed to run command '/home/bobo/htlc_test_chain/nodes/127.0.0.1/node2/../fisco-bcos': No such file or directory
+[2022-03-18 23:19:29] Initializing...
+FISCO-BCOS Version : 2.4.0
+Build Time         : 20200430 03:22:53
+Build Type         : Linux/clang/Release
+Git Branch         : HEAD
+Git Commit Hash    : 0d94de1e0f2dc7ce7d226dbd68001a4b43029cf6
+[2022-03-18 23:19:29] The FISCO-BCOS is running...
+[2022-03-19 05:25:21] FISCO-BCOS program exit normally.
+[2022-03-19 07:10:29] Initializing...
+FISCO-BCOS Version : 2.4.0
+Build Time         : 20200430 03:22:53
+Build Type         : Linux/clang/Release
+Git Branch         : HEAD
+Git Commit Hash    : 0d94de1e0f2dc7ce7d226dbd68001a4b43029cf6
+[2022-03-19 07:10:29] The FISCO-BCOS is running...
+[2022-03-19 09:19:27] FISCO-BCOS program exit normally.
